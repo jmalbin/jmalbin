@@ -1,4 +1,13 @@
-## Hi there 👋
+<h1>Hi, I'm Justin! </h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>(Placeholder)</b>
+
+<h2>Certifications</h2>
+
+[Comptia Security+ SY0-701](https://www.credly.com/badges/3de88887-73d2-4a5c-b37d-fd294e42ac01/public_url)
+[Google Cybersecurity Certificate](https://www.credly.com/badges/c71360ca-c431-4af4-a523-573febe8888a/public_url)
 
 <!--
 **jmalbin/jmalbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
