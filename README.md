@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>[File Integrity Monitor](https://github.com/jmalbin/FileIntegrityMonitor)</b>
+- <b>[REST API](https://github.com/jmalbin/REST-API)</b>
 
 <h2>Certifications</h2>
 
