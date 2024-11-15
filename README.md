@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>(Placeholder)</b>
+- <b>[File Integrity Monitor](https://github.com/jmalbin/FileIntegrityMonitor)</b>
 
 <h2>Certifications</h2>
 
