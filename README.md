@@ -6,6 +6,7 @@
 - <b>[REST API](https://github.com/jmalbin/REST-API)</b>
 - <b>[Nessus Vulnerability Management](https://github.com/jmalbin/Nessus-Vulnerability-Management)</b>
 - <b>[Active Directory](https://github.com/jmalbin/Active-Directory)</b>
+- <b>[SIEM in Azure Sentinel](https://github.com/jmalbin/SIEM-in-Azure-Sentinel)</b>
 
 <h2>Certifications</h2>
 
