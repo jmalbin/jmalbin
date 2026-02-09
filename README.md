@@ -1,12 +1,34 @@
 <h1>Hi, I'm Justin! </h1>
 
+I’m an IT Support and Cybersecurity-focused professional with a Bachelor’s degree in Computer Science from Purdue University Northwest and a CompTIA Security+ certification. I enjoy troubleshooting technical problems, improving system reliability, and building practical solutions that help users and organizations work more efficiently.
+
+My experience includes supporting Windows and macOS environments, diagnosing hardware and software issues, configuring networks, and assisting users with account access and system configuration. I’m particularly interested in roles that combine technical support, security fundamentals, and hands-on problem solving.
+
+On this GitHub, you’ll find projects related to:
+
+IT and system administration labs
+
+Networking and security concepts
+
+Automation and scripting experiments
+
+Troubleshooting and technical documentation
+
+I’m currently pursuing opportunities in IT Support, Application Support, and Cybersecurity where I can continue developing my technical skills while contributing to reliable and secure systems.
+
+📫 Let’s connect:
+
+[LinkedIn](https://www.linkedin.com/in/jmalbin/)
+
+justinalbin0730@gmail.com
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>[File Integrity Monitor](https://github.com/jmalbin/FileIntegrityMonitor)</b>
 - <b>[REST API](https://github.com/jmalbin/REST-API)</b>
 - <b>[Nessus Vulnerability Management](https://github.com/jmalbin/Nessus-Vulnerability-Management)</b>
 - <b>[Active Directory](https://github.com/jmalbin/Active-Directory)</b>
 - <b>[SIEM in Azure Sentinel](https://github.com/jmalbin/SIEM-in-Azure-Sentinel)</b>
+- <b>[File Integrity Monitor](https://github.com/jmalbin/FileIntegrityMonitor)</b>
 
 <h2>Certifications</h2>
 
