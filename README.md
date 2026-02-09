@@ -16,7 +16,7 @@ Troubleshooting and technical documentation
 
 I’m currently pursuing opportunities in IT Support, Application Support, and Cybersecurity where I can continue developing my technical skills while contributing to reliable and secure systems.
 
-📫 Let’s connect:
+<h2>📫 Let’s connect:</h2>
 
 [LinkedIn](https://www.linkedin.com/in/jmalbin/)
 
