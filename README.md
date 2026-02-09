@@ -6,13 +6,13 @@ My experience includes supporting Windows and macOS environments, diagnosing har
 
 On this GitHub, you’ll find projects related to:
 
-IT and system administration labs
+IT and system administration labs 💻
 
-Networking and security concepts
+Networking and security concepts 🌐
 
-Automation and scripting experiments
+Automation and scripting experiments 🤖
 
-Troubleshooting and technical documentation
+Troubleshooting and technical documentation 🛠️
 
 I’m currently pursuing opportunities in IT Support, Application Support, and Cybersecurity where I can continue developing my technical skills while contributing to reliable and secure systems.
 
