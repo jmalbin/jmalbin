@@ -24,10 +24,10 @@ justinalbin0730@gmail.com
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>[REST API](https://github.com/jmalbin/REST-API)</b>
-- <b>[Nessus Vulnerability Management](https://github.com/jmalbin/Nessus-Vulnerability-Management)</b>
-- <b>[Active Directory](https://github.com/jmalbin/Active-Directory)</b>
 - <b>[SIEM in Azure Sentinel](https://github.com/jmalbin/SIEM-in-Azure-Sentinel)</b>
+- <b>[Active Directory](https://github.com/jmalbin/Active-Directory)</b>
+- <b>[Nessus Vulnerability Management](https://github.com/jmalbin/Nessus-Vulnerability-Management)</b>
+- <b>[REST API](https://github.com/jmalbin/REST-API)</b>
 - <b>[File Integrity Monitor](https://github.com/jmalbin/FileIntegrityMonitor)</b>
 
 <h2>Certifications</h2>
